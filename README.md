@@ -1,16 +1,14 @@
-# quiz
+# Quiz
 
-A new Flutter project.
+A new Flutter project, that builds upon the previous one.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project uses basics of flutter to make a quiz app.
 
-A few resources to get you started if this is your first Flutter project:
+Start Screen - ![image](https://github.com/Ani023/quiz/assets/97366317/1c407d28-a778-46c0-89de-33ee8adfb4cc)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Question Screen - ![image](https://github.com/Ani023/quiz/assets/97366317/057665e1-07c6-415f-a836-ac258876fb3c)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Result Screen - ![image](https://github.com/Ani023/quiz/assets/97366317/2479c668-8d61-4b86-810e-6a676c3f2838)
+
